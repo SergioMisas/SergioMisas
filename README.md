@@ -14,21 +14,18 @@ I will upload all my proyects, exercises and exams here so you can take a look.
 
 These are the ones I am currently using:
 
-<div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width = 10% align = left>
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width = 10% align = left>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original.svg" width = 10% align = left>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width = 10% align = left>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" width = 10% align = left>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width = 10% align = left>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width = 10% align = left>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width = 10% align = centre>](https://kotlinlang.org/)
+[<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width = 10% align = centre>](https://www.python.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width = 10% align = centre>](https://www.jetbrains.com/es-es/idea/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width = 10% align = centre>](https://code.visualstudio.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" width = 10% align = centre>](https://www.markdownguide.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width = 10% align = centre>](https://git-scm.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width = 10% align = centre>](https://github.com/)
 
-</div>
 
 <br>
 <br>
-<br>
-<br>
+
 
 ## My socials 📫
 
