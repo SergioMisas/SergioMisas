@@ -14,6 +14,8 @@ I will upload all my proyects, exercises and exams here so you can take a look.
 
 These are the ones I am currently using:
 
+[<img src="./https __mariadb.com_wp-content_uploads_2019_11_mariadb-logo-vertical_blue.svg" width = 5% align = centre>](https://mariadb.com/)
+[<img src="./html5-original-wordmark.svg" width = 5% align = centre>](https://es.wikipedia.org/wiki/HTML)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width = 5% align = centre>](https://kotlinlang.org/)
 [<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width = 5% align = centre>](https://www.python.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width = 5% align = centre>](https://www.jetbrains.com/es-es/idea/)
