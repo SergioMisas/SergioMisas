@@ -1,4 +1,4 @@
-# Hello there!! Im not General Kenobi though 👋
+# Hello there!! 
 
 <img src="octocat-1665740977551.png" width = 35% align = right>
 
