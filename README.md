@@ -2,13 +2,13 @@
 
 <img src="octocat-1665740977551.png" width = 35% align = right>
 
-My name is Sergio Misas (he/him) and I am currently studing a Multiplatform Application Development professional training at [IES-LUIS-VIVES](https://www.iesluisvives.es/).
+My name is Sergio Misas (any pronouns) and I am a Cross-Platform App Developer, having studied at [IES-LUIS-VIVES](https://www.iesluisvives.es/).
 
-Not only am I studying this, but I also have spent 4 years studying a chemistry degree at [UCM](https://quimicas.ucm.es/), but I switched to the former degree.
+Not only have I studied this, but I also have spent 4 years studying a chemistry degree at [UCM](https://quimicas.ucm.es/), but I switched to the former degree.
 
 And last but not least I have achieved the [C2 Cambridge English certificate](https://www.instagram.com/p/CKv6-AMFcTc/) on September of 2020 (I received my certificate later).
 
-I will upload all my proyects, exercises and exams here so you can take a look.
+I will upload all my proyects here so you can take a look.
 
 ## Tools and languages I develop with
 
